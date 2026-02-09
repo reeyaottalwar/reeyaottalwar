@@ -89,19 +89,6 @@ I enjoy building intelligent systems, working on real-world problem statements, 
 
 ---
 
-## 🏅 Certifications
-- IBM – Introduction to Computer Vision & Image Processing (2025)  
-- Microsoft – Generative AI for Data Analysis (2025)  
-- Oracle – Generative AI Professional (2024)  
-
----
-
-## 📊 GitHub Stats
-![Reeya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reeyaottalwar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reeyaottalwar&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/reeya-ottalwar-919408330/
 - 💻 GitHub: https://github.com/reeyaottalwar
